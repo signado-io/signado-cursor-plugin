@@ -30,7 +30,7 @@ No API key is needed. To add the server without the plugin, put this in your `mc
 
 ## Tools
 
-The server advertises 15 tools: `ping`, `list_warm_leads`, `get_best_of_run`, `get_warm_lead_detail`, `export_leads`, `preview_source`, `add_source`, `set_source_schedule`, `run_source_once`, `cancel_source_run`, `remove_source`, `find_email`, `draft_message`, `list_templates` and `save_template`.
+The server advertises 17 tools: `ping`, `list_warm_leads`, `get_best_of_run`, `get_warm_lead_detail`, `export_leads`, `list_hiring_leads`, `preview_source`, `add_source`, `set_source_schedule`, `run_source_once`, `cancel_source_run`, `remove_source`, `find_email`, `draft_message`, `add_hiring_lead_person`, `list_templates` and `save_template`.
 
 Reading leads is free. Paid tools use your workspace's credits and report the credits charged in every response.
 
